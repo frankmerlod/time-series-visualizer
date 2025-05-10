@@ -30,7 +30,7 @@ Este proyecto tiene como objetivo analizar y visualizar una serie temporal de da
 ## 📊 Datos: Origen y Descripción:
 
 - **Fuente:** Conjunto de datos proporcionado por FreeCodeCamp.
-- **Contenido:** Datos historicos de visitas a un sitio web.
+- **Contenido:** Datos históricos de visitas a un sitio web.
 
 
 <!--horizontal divider(gradiant)-->
