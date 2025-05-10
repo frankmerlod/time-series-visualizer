@@ -29,7 +29,7 @@ Explorar distribuciones mensuales y anuales con boxplots y barplots.
   - Seaborn
 - Jupyter Notebook
 
-## 📊 Datos: Origen y Descripción**
+## 📊 Datos: Origen y Descripción:
 
 - **Fuente:** Conjunto de datos proporcionado por FreeCodeCamp.
 - **Contenido:**  - Datos historicos de visitas a un sitio web.
