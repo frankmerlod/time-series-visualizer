@@ -14,11 +14,9 @@
 Este proyecto tiene como objetivo analizar y visualizar una serie temporal de datos de uso diario (page views) de un sitio web. Utilizando bibliotecas como Matplotlib, Pandas y Seaborn, se generaron visualizaciones que permiten identificar tendencias generales, patrones estacionales y comportamientos atípicos en los datos.
 
 ## 🔍 Tareas realizadas:
-Limpiar y preparar los datos.
-
-Visualizar la evolución temporal mediante gráficos de línea.
-
-Explorar distribuciones mensuales y anuales con boxplots y barplots.
+- Limpiar y preparar los datos.
+- Visualizar la evolución temporal mediante gráficos de línea.
+- Explorar distribuciones mensuales y anuales con boxplots y barplots.
 
 ## 🛠 Tecnologías Usadas:
 
